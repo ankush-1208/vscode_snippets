@@ -1,0 +1,11 @@
+{
+	"code-snippet": {
+		"prefix": "ff",
+
+		"body": [
+			"for(int i = 0; i < n; i++) {",
+			"    $0;",
+			"}"
+		]
+	}
+}

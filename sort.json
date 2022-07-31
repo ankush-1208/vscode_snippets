@@ -1,0 +1,7 @@
+{
+	"sorting-short": {
+		"prefix": "ss",
+
+		"body": "sort(all($0));"
+	}
+}

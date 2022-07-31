@@ -1,0 +1,7 @@
+{
+	"sorting-reverse-short": {
+		"prefix": "sr",
+
+		"body": "sort(rall($0));"
+	}
+}
